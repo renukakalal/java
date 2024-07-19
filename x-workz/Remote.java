@@ -1,0 +1,16 @@
+class Remote
+{
+    public static void main(String[]  args)
+{
+System.out.println(45);
+System.out.println("x-workz");
+System.out.println("Omkar");
+System.out.println("java");
+System.out.println(-100);
+System.out.println(200.745487);
+System.out.println("i am from kalburgi");
+System.out.println("??????????????");
+System.out.println("$#$%%&((((*&^%$%%^&((**(%#$%^&*");
+System.out.println("i am a java developer");
+}
+}``
