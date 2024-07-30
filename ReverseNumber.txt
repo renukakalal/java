@@ -1,0 +1,19 @@
+class ReverseNumber
+{
+public static void num(String alphabet,int null)
+	{
+	for(int i=len-1;i>=0;i--)
+	{
+	rev=rev+str.charAt(i);
+		
+	
+	}
+	public static void main(String[] args)
+	{
+		ReverseNumber.num("ABCD",0);
+		
+
+	
+	    
+     }
+}
