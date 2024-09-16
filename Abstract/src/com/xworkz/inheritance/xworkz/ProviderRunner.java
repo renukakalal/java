@@ -5,7 +5,7 @@ public class ProviderRunner {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-Provider provider;
+
 
 Provider provider1=new BookingProvider("sohita", "Om");
 provider1.show();
@@ -30,8 +30,6 @@ ExtremeAirtelInternetProvider Provider7=new ExtremeAirtelInternetProvider("kalpa
 Provider7.show();
 
 Fast5gExtreme provider8=new Fast5gExtreme("mamatha","sharan");
-new Fast5gExtreme("sharan", "shanta");
-
 provider8.show();
 
 BookMyShowMovieBookingProvider provider9=new BookMyShowMovieBookingProvider("virat kohli","rohitsharma");
@@ -43,7 +41,6 @@ JioInternetProvider provider10=new JioInternetProvider("omkar","mamatha");
 SatjioInternetprovidr provider11=new SatjioInternetprovidr("kousalya","nagraj",1000,15);
 provider11.show();
 provider11.service();
-
 
 Provider providers=new BookingProvider("Anu","Anand");
 
